@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bNFQgjdWc7SP+DpenmLhA15J/TtVK+W735mgon+GVIlUTU4OfjVYV/PagUvz7tkaUp+c1/JSOEzinOSSw7ULg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MHD\\source\\repos\\KelimeOyunu\\KelimeOyunu\\KelimeOyunu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MHD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
